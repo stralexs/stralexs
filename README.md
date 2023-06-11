@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#">### Hello, world 👋</a>
+<b>### Hello, world 👋</b>
 </p>
 
 ## My name is Alexander and I'm an iOS developer!
