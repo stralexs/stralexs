@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+### Hello, world 👋
+</div>
+
+## My name is Alexander and I'm an iOS developer!
 
 <!--
 **stralexs/stralexs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
