@@ -1,9 +1,13 @@
-<p align="center">
-<b>### Hello, world 👋</b>
-</p>
+### Hello, world 👋
 
-## My name is Alexander and I'm an iOS developer!
+## My name is Alexander and I'm an iOS developer 🍏
 
+# *Stay hungry, stay foolish*
+
+You can reach me in:
+- [LinkedIn](https://www.linkedin.com/in/alexander-sivko/)
+- [Telegram](t.me/stralexss)
+- [e-mail](mailto:alexandersivko.swift@gmail.com)
 <!--
 **stralexs/stralexs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
