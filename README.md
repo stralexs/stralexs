@@ -2,7 +2,7 @@
 
 ## My name is Alexander and I'm an iOS developer 🍏
 
-### *Stay hungry, stay foolish*
+### *Who is John Appleseed?*
 
 You can reach me in:
 - [LinkedIn](https://www.linkedin.com/in/alexander-sivko/)
