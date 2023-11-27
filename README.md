@@ -10,6 +10,6 @@
 </p>
 <h3 align="center">My featured projects</h3>
 
-| indi                                                                                                                                    | Photato                                                                                                                                       |
+| English learning app                                                                                                                    | App for photographers                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![indi](https://github.com/stralexs/stralexs/assets/123239625/173bd9f5-5c72-4d13-9936-41acd7843fc2)](https://github.com/stralexs/indi) | [![Photato](https://github.com/stralexs/stralexs/assets/123239625/0dfbab49-9955-4b7f-b3b4-a5ff084dc8e5)](https://github.com/stralexs/photato) |
