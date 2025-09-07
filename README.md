@@ -66,10 +66,10 @@ Seeking a team with mature development processes and opportunities for continuou
 
 <p align="left">
   <a href="https://linkedin.com/in/alexander-sivko" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="mailto:alexandersivko.swift@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
