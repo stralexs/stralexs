@@ -1,6 +1,6 @@
 # 👨‍💻 **Alexander | iOS Developer**  
 
-iOS developer with **`4+ years`** of experience in **`EdTech`**, **`FinTech`** and **`Entertainment`** domains, working across both large outsource companies and small product-oriented teams. Skilled in building and maintaining high-load applications serving **`200k+`** daily unique users. Willing to take technical initiative and deliver working solutions to any business needs. Proficient in **`UIKit`**, **`SwiftUI`**, reactive programming (**`RxSwift`** / **`Combine`**) and **`Swift 6`**.  
+iOS developer with **`4+ years`** of experience in **`EdTech`**, **`FinTech`** and **`Entertainment`** domains, working across both large outsource companies and small product-oriented teams. Skilled in building and maintaining high-load applications serving **`300k+`** daily unique users. Willing to take technical initiative and deliver working solutions to any business needs. Proficient in **`UIKit`**, **`SwiftUI`**, reactive programming (**`RxSwift`** / **`Combine`**) and **`Swift 6`**.  
 
 Seeking a team with mature development processes and opportunities for continuous professional growth 🚀.  
 
