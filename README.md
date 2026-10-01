@@ -1,4 +1,4 @@
-# 👨‍💻 **Aliaksandr Siuko | iOS Developer**
+# 👨‍💻 **Aliaksandr | iOS Developer**
 
 iOS Developer with **`5 years`** of experience across **`Advertising`**, **`FinTech`** and **`EdTech`** domains. Experienced in building SDKs and reusable libraries, as well as supporting high-load applications serving **`300k+ daily users`**.
 
